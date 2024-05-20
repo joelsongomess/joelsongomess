@@ -12,3 +12,5 @@ joelson.gomes@escola.pr.gov.br
 
 
 ![](https://media.tenor.com/q-zZSTX6jSIAAAAM/mail-download.gif)
+
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
